@@ -4,7 +4,6 @@
   <tr>
     <td><img src="screen%20short/01-android_phone.png" width="300" height="600"></td>
     <td><img src="screen%20short/02-android_phone.png" width="350" height="700"></td>
-    <td><img src="screenshots/Screenshot_1582745139.png" width=270 height=480></td>
   </tr>
  </table>
  
@@ -12,7 +11,6 @@
   <tr>
     <td><img src="screen%20short/03-android_phone.png" width="300" height="600"></td>
     <td><img src="screen%20short/04-android_phone.png" width="350" height="700"></td>
-    <td><img src="screenshots/Screenshot_1582745139.png" width=270 height=480></td>
   </tr>
  </table>
 
