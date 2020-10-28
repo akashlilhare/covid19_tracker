@@ -1,6 +1,14 @@
 <h1>Final Product</h1>
 
-<img scr="screen%20short/01-android_phone.png" width ="300" height="700"
+<img scr="screen%20short/01-android_phone.png" width ="300" height="700" >
+
+<img scr="screen%20short/02-android_phone.png" width ="300" height="700" >
+
+<img scr="screen%20short/03-android_phone.png" width ="300" height="700" >
+
+<img scr="screen%20short/04-android_phone.png" width ="300" height="700" >
+
+<img scr="screen%20short/05-android_phone.png" width ="300" height="700" >
 
 ![](screen%20short/01-android_phone.png)
 
