@@ -1,6 +1,6 @@
 <h1>Final Product</h1>
 
-<img src="screen%20short/01-android_phone.png" width="300" height="600">
+<img src="screen%20short/01-android_phone.png" width="300" height="600"> |
 
 <img src="screen%20short/02-android_phone.png" width="350" height="700">
 
