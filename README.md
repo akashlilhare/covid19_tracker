@@ -1,5 +1,7 @@
 <h1>Final Product</h1>
 
+<img scr="screen%20short/01-android_phone.png" width ="300" height="700"
+
 ![](screen%20short/01-android_phone.png)
 
 <img src="https://user-images.githubusercontent.com/39927872/93143411-85ce2c00-f705-11ea-8b98-e3be2907f179.jpg" width="350" height="700">
