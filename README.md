@@ -1,4 +1,4 @@
-<h1>Final Product</h1>
+<h1>some screenshots</h1>
 
 <table>
   <tr>
@@ -17,7 +17,6 @@
 
 
 
-<img src="screen%20short/05-android_phone.png" width="300" height="600">
 
 
 
